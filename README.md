@@ -1,4 +1,4 @@
 # Covide-anlayse
 Covide-anlayse
-![Rplot.png](Rplot/Rplot.png)
+![Rplot.png](Rplot.png)
 
