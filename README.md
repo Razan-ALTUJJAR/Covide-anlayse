@@ -1,6 +1,6 @@
 # Covide-anlayse
-Covide-anlayse
-
+#####  Le covid avait influencé pleinement beaucoup de secteurs dans plusieurs villes.
+#####  Sur la cartographie suivante, on illustre pour la ville de Rennes les états principaux des différents secteurs.  
 
 
 
