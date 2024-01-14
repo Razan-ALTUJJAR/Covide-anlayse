@@ -11,3 +11,5 @@
 
 ![Rplot.png](Rplot.png)
 
+
+#####  Les restaurants et les fast-foods étaient beaucoup moins touchés que les cafétérias et les bars.
